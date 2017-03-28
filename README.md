@@ -30,4 +30,4 @@ Il primo giocatore che mangia la pizza avvelenata perde.
 - il candidato puó decidere autonomamente se realizzare un programma standalone oppure una piccola applicazione web 
 - qualora il candidato decida di realizzare un programma standalone, è preferibile l'utilizzo di un linguaggio di programmazione ad oggetti (C#, Java)
 - qualora il candidato decida di realizzare un'applicazione web, è preferibile l'adozione di Html, Css e Javascript
-- al termine dello sviluppo effettuare una **pull request** sul repository corrente contenente i sorgenti e le istruzioni per eseguire il programma realizzato 
+- è necessario creare un nuovo branch dal master ed effettuare il push delle modifiche sul repository corrente, comprensive di sorgenti e di istruzioni per eseguire il programma realizzato 
