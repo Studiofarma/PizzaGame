@@ -30,4 +30,4 @@ Il primo giocatore che mangia la pizza avvelenata perde.
 - il candidato puó decidere autonomamente se realizzare un programma standalone oppure una piccola applicazione web 
 - qualora il candidato decida di realizzare un programma standalone, è preferibile l'utilizzo di un linguaggio di programmazione ad oggetti (C#, Java)
 - qualora il candidato decida di realizzare un'applicazione web, è preferibile l'adozione di Html, Css e Javascript
-- una na volto pronto, chiediamo cortesemente di mettere a disposizione il programma (comprensivo di sorgenti ed istruzioni per la sua esecuzione) su un tuo repo Git pubblico di cui poi dovresti fornirci l'indirizzo.
+- una volto pronto, chiediamo cortesemente di mettere a disposizione il programma (comprensivo di sorgenti ed istruzioni per la sua esecuzione) su un tuo repo Git pubblico di cui poi dovresti fornirci l'indirizzo.
